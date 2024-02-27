@@ -40,13 +40,11 @@ ScriptHookV DotNetを使用しており、バージョンは3.6.0で開発して
 指定する文字列は[こちらのサイト](https://learn.microsoft.com/en-us/dotnet/api/system.windows.forms.keys?redirectedfrom=MSDN&view=windowsdesktop-7.0)をご確認ください。
 
 ### Parameters
-**AlwaysShow**：メモの内容を常時画面に表示させるかどうかの設定です。「*True*」で有効、「*False*」で無効です。
+**AlwaysShow**：メモを常時画面に表示させるかどうかの設定です。「*True*」にするとメモが常時画面に表示されます。「*False*」の場合、メモは画面に表示されません。
 
-**OnlyChanged**：デフォルト値を変更したメモの項目のみ表示させる設定です。**AlwaysShow**が*True*の場合にのみ使用できます。「*True*」で有効、「*False*」で無効です。
+**OnlyChanged**：デフォルト値を変更したメモの項目のみ表示させる設定です。**AlwaysShow**が*True*の場合にのみ使用できます。「*True*」でデフォルト値と異なっているメモのみ画面に表示されます。「*False*」で全てのメモが画面に表示されます。
 
-**ShowLeft**：メモの内容を画面左側に表示させる設定です。**AlwaysShow**が*True*の場合にのみ使用できます。「*True*」で有効、「*False*」で無効です。
-
-**Hazard**：ハザードランプ切り替え
+**ShowLeft**：メモの内容を画面左側に表示させる設定です。**AlwaysShow**が*True*の場合にのみ使用できます。「*True*」で画面左側にメモが表示されます。「*False*」で画面右側にメモが表示されます。
 
 ### Colors
 メモを常時表示した際のテキストの色を指定できます。
