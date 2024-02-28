@@ -26,10 +26,10 @@ C#を使用しています。
 ScriptHookV DotNetを使用しており、バージョンは3.6.0で開発しています。
 
 ## インストール
-以下から各種ファイルをダウンロードし、スクリプトMod本体はScriptsフォルダに、前提条件のファイルはGTA5.exeと同じフォルダにコピーしてください。
+以下から各種ファイルをダウンロードし、スクリプトMod本体とNativeUIはScriptsフォルダに、前提条件のファイルはGTA5.exeと同じフォルダにコピーしてください。
 
-| [MeMod](https://github.com/QuestDragon/GTAV_MeMod/releases/latest/download/MeMod.zip) | [ScriptHookV](http://dev-c.com/gtav/scripthookv/) | [ScriptHookV DotNet 3.6.0](https://github.com/scripthookvdotnet/scripthookvdotnet/releases/latest) |
-| ------------- | ------------- | ------------- | 
+| [MeMod](https://github.com/QuestDragon/GTAV_MeMod/releases/latest/download/MeMod.zip) | [ScriptHookV](http://dev-c.com/gtav/scripthookv/) | [ScriptHookV DotNet 3.6.0](https://github.com/scripthookvdotnet/scripthookvdotnet/releases/latest) | [NativeUI](https://github.com/Guad/NativeUI/releases/latest)
+| ------------- | ------------- | ------------- | ------------- | 
 
 ## 各種設定
 ほとんどの設定はゲーム内でも変更できます。以下に設定項目の解説を記載します。
